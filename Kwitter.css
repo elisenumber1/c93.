@@ -1,0 +1,16 @@
+body{
+	font-family: 'Gloria Hallelujah', cursive;
+	background-color:#6FCAF1;
+	height: 100%;
+}
+
+.container{
+	height: 100%;
+	align-content: center;
+}
+
+
+
+input {
+	margin: 5px
+}
